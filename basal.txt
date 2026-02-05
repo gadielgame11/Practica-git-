@@ -16,7 +16,7 @@ print("1. Sedentario")
 print("2. Ligero (1-3 días/semana)")
 print("3. Moderado (3-5 días/semana)")
 print("4. Intenso (6-7 días)")
-print("5. Muy intenso")
+print("5. Muy  intenso")
 
 opcion = int(input("Elige opción (1-5): "))
 
